@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm Vaibhav!
 
-<!--
-**Vaibhav-dev-creator/Vaibhav-dev-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Developer | Tech Enthusiast | BCA Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about technology, software development, and exploring new tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 BCA Graduate
+- 💼 Working as a Data Tagging Executive at ParallelDots
+- 🌱 Learning and exploring software development
+- 💡 Interested in Java, AI, Data Operations and Web Development
+- 🎯 Goal: Build useful projects and improve my development skills
+
+### 🛠️ Skills & Technologies
+
+- Java
+- HTML & CSS
+- JavaScript
+- MS Excel
+- Google Sheets
+- Data Annotation & Quality Control
+
+### 📂 My Projects
+
+Coming soon! I'm working on interesting projects and will share them here.
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-dev-creator&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-dev-creator&layout=compact&theme=tokyonight)
+
+### 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vaibhav2507
+- Email: techvaibhav89@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
